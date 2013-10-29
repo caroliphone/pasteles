@@ -21,9 +21,9 @@ Los grupos de 9 ingredientes son 4:
 Resultado:
 ----------
 
-3 Caramelos, 3 Dulces y 3 Frutas:	72576 recetas   
-3 Caramelos, 3 Dulces, 2 Frutas y 1 Masita:	187344 recetas  
-3 Caramelos, 2 Dulces, 3 Frutas y 1 Masita:	187344 recetas  
-2 Caramelos, 3 Dulces, 3 Frutas y 1 Masita:	187344 recetas  
+3 Confites, 3 Dulces y 3 Frutas:	72576 recetas   
+3 Confites, 3 Dulces, 2 Frutas y 1 Masita:	187344 recetas  
+3 Confites, 2 Dulces, 3 Frutas y 1 Masita:	187344 recetas  
+2 Confites, 3 Dulces, 3 Frutas y 1 Masita:	187344 recetas  
   
 TOTAL:	634608  recetas 
