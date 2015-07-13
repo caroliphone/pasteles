@@ -1,4 +1,5 @@
 <?
+
 ini_set('memory_limit', '64M');
 set_time_limit(0);
 $total=0;
